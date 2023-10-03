@@ -12,5 +12,6 @@
 *.iml
 **/.vscode
 
-**/red4j-data
+red4j-data/
 **/cp.txt
+**.java.orig
