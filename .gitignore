@@ -11,3 +11,6 @@
 **/.idea
 *.iml
 **/.vscode
+
+**/red4j-data
+**/cp.txt
